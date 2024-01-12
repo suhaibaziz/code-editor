@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.40c7c648.css",
-    "main.js": "/static/js/main.f7a7492e.js",
-    "static/media/aflogo-transformed.png": "/static/media/aflogo-transformed.899af26ac7f7b9ffd31f.png",
-    "static/media/pexels-lumn-399161.jpg": "/static/media/pexels-lumn-399161.c61897bb26282248fefc.jpg",
-    "index.html": "/index.html",
-    "main.40c7c648.css.map": "/static/css/main.40c7c648.css.map",
-    "main.f7a7492e.js.map": "/static/js/main.f7a7492e.js.map"
+    "main.css": "/code-editor/static/css/main.40c7c648.css",
+    "main.js": "/code-editor/static/js/main.a203b49c.js",
+    "static/media/aflogo-transformed.png": "/code-editor/static/media/aflogo-transformed.899af26ac7f7b9ffd31f.png",
+    "static/media/pexels-lumn-399161.jpg": "/code-editor/static/media/pexels-lumn-399161.c61897bb26282248fefc.jpg",
+    "index.html": "/code-editor/index.html",
+    "main.40c7c648.css.map": "/code-editor/static/css/main.40c7c648.css.map",
+    "main.a203b49c.js.map": "/code-editor/static/js/main.a203b49c.js.map"
   },
   "entrypoints": [
     "static/css/main.40c7c648.css",
-    "static/js/main.f7a7492e.js"
+    "static/js/main.a203b49c.js"
   ]
 }
