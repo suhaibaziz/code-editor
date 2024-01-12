@@ -1,7 +1,7 @@
 {
   "name": "your-editor",
   "version": "0.1.0",
-  "homepage": "https://suhaibaziz.github.io/code-editor/",
+  "homepage": "https://suhaibaziz.github.io/code-editor",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
@@ -21,10 +21,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
